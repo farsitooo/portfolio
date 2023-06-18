@@ -1,0 +1,53 @@
+body {
+  background-color: #121212;
+}
+
+.tecnologias h1 {
+  font-family: "Space Grotesk", sans-serif;
+  text-align: center;
+  margin-top: 16%;
+  transition: 1s;
+  color: #382bf0;
+}
+.tecnologias h1:hover {
+  text-decoration: underline;
+  transition: 1s;
+}
+
+.imagen1 img {
+  height: 40px;
+  width: 40px;
+  margin: 15px;
+  transition: 1s;
+  display: inline;
+  margin-left: 13%;
+  padding: 1px 1px;
+}
+.imagen1 img:hover {
+  background-color: #382bf0;
+  padding: 10px;
+  border-radius: 100%;
+}
+
+.frameworks h1 {
+  font-family: "Space Grotesk", sans-serif;
+  text-align: center;
+  margin-top: 6%;
+  transition: 1s;
+  color: #382bf0;
+}
+.frameworks h1:hover {
+  text-decoration: underline;
+  transition: 1s;
+}
+
+.imagen2 img {
+  margin-left: 45%;
+  transition: 1s;
+}
+.imagen2 img:hover {
+  background-color: #382bf0;
+  padding: 10px;
+  border-radius: 100%;
+  transition: 1s;
+}/*# sourceMappingURL=estilo.css.map */
